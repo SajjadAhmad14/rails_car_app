@@ -1,3 +1,7 @@
 ## Car App
 
-# Using this app you can add car
+
+# Project Discription
+
+- You can add and delete cars to application
+- Edit the cars info
