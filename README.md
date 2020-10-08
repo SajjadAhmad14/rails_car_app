@@ -31,7 +31,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SajjadAhmad14/Enumerables/issues).
+Feel free to check the [issues page](https://github.com/SajjadAhmad14/rails_car_app/issues).
 
 ## Show your support
 
